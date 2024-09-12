@@ -25,7 +25,7 @@
     margin-top: 80px;
   }
   .img-bg{
-    background-image: url('images/bg.jpg');
+    background-image: url('bg.jpg');
     background-size: cover;
     height:100%;
   }
@@ -77,7 +77,7 @@
   }
   
   .back-ground{
-    background-image: url('images/teabg.jpg');
+    background-image: url('teabg.jpg');
     background-size: cover;
     height:100%;
   }
@@ -139,7 +139,7 @@
   }
   /*icse */
   .icsebg{
-    background-image: url('images/bg.jpg');
+    background-image: url('bg.jpg');
     background-size: cover;
     height:100%;
   }
